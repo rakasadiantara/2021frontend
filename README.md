@@ -1,4 +1,5 @@
-"Lakukan apa yang kita senangi, buat tujuan dan catat tujuan itu"
+<blockquote>"Lakukan apa yang kita senangi, buat tujuan dan catat tujuan itu"<blockquote>
+  
 Tampilan Aplikasi :
 ### Hero Section
 ![image](https://user-images.githubusercontent.com/57295375/119803238-77c5e180-bf09-11eb-922b-d848570f32d9.png)
