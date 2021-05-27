@@ -1,4 +1,4 @@
-<blockquote>"Lakukan apa yang kita senangi, buat tujuan dan catat tujuan itu"<blockquote>
+<blockquote>"Lakukan apa yang kita senangi, buat tujuan dan catat tujuan itu"</blockquote>
   
 Tampilan Aplikasi :
 ### Hero Section
